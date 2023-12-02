@@ -19,7 +19,7 @@ def x(a, b, e):
 
 a = 8.0
 b = 9.0
-e = 0.01  # Hassasiyet
+e = 0.01
 
 kok = x(a, b, e)
 
